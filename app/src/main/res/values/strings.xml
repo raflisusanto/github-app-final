@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubmissionGithubApp</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="user_description">User Description</string>
+    <string name="search_bar_hint">Masukkan username</string>
+    <string name="search_view_hint">Masukkan username</string>
+    <string name="tab_text_follower">Follower</string>
+    <string name="tab_text_following">Following</string>
+    <string name="tab_content_desc">Tab of followers and following</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="favorite_user_fab">Favorite User FAB</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="user_not_found">Tidak ada user yang ditemukan</string>
+</resources>
